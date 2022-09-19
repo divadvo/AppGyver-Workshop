@@ -4,7 +4,9 @@
 
 Check if you can access the prerequisites page [here](https://learning.sap.com/learning-journey/utilize-low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-no-code-in-appgyver)
 
-- Install iOS/Android app (Download links in the link above)
+- Install iOS/Android app
+  - [iPhone](https://apps.apple.com/us/app/sap-appgyver-preview/id1585856868)
+  - [Android](https://play.google.com/store/apps/details?id=com.sap.appgyver.preview.release&gl=US)
 - Access the [LCNC Lobby](https://n-lcnc-applicationdevelopment.lcnc.cfapps.eu10.hana.ondemand.com/lobby) to create a project
 - (Optional): Access the [subaccount](https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/ac05fa1d-9c25-4b5e-a7bc-cac28341ff8f/subaccount/deaacfd3-655b-4c94-b9fd-c0c50f63af92/). Roles: `LCNC_Developer` or `LCNC_Administrator`
 - FYI: the videos show the same steps as the written guide, so you could skip the videos
